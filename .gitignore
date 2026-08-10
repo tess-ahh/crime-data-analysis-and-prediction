@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Large datasets
+data/*.csv
+
+# Spark
+spark-warehouse/
+metastore_db/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
